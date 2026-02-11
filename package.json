@@ -1,0 +1,23 @@
+{
+  "name": "venn",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Dragonrider7777/VENN#readme",
+  "bugs": {
+    "url": "https://github.com/Dragonrider7777/VENN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragonrider7777/VENN.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^40.2.1"
+  }
+}
